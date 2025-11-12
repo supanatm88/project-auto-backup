@@ -16,7 +16,7 @@
 
 ## 🖼️ ภาพโครงสร้างเครือข่าย
 ![DHCP Server Topology](./DHCP_Server.png)
-![DHCP Server Topology](./DHCP_Server.png)
+![DHCP Server Topology](./DHCPServer_2.png)
 
 > แสดงการเชื่อมต่อ DHCP Server กับ Switch และ PC ภายในวง 192.168.1.0/24
 
