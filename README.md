@@ -32,4 +32,5 @@
 ---
 
 ## 🔗 กลับไปหน้า Portfolio
-[⬅️ Portfolio หลัก](../../README.md)
+[⬅️ Portfolio หลัก](https://github.com/supanatm88/portfolio
+)
