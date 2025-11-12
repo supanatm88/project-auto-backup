@@ -41,5 +41,8 @@
 
 ---
 
-## 🔗 กลับไปหน้า Portfolio
-[⬅️ Portfolio หลัก](https://github.com/supanatm88/portfolio)
+---
+## 🔗 Portfolio Reference
+กลับไปหน้าโปรไฟล์หลักของฉัน  
+➡️ [Portfolio (Profile & Objectives)](https://github.com/supanatm88/portfolio)
+
