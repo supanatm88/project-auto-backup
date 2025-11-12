@@ -15,7 +15,7 @@
 ---
 
 ## 🖼️ ภาพตัวอย่าง
-![Network Topology](./vlan-dhcp-static-routing.png)
+![Network Topology](./DHCP Server.png)
 
 ---
 
