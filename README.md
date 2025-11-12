@@ -20,8 +20,32 @@ Repo นี้เป็นส่วนหนึ่งของ **Portfolio ด�
 
 ---
 
-## 🧱 โครงสร้าง Repo
+## 📦 โครงสร้าง Repo
 
+```
+📁 network-lab-project/
+│
+├─ 🏠 README.md                ← หน้าหลัก (หน้านี้)
+├─ 🧩 Lab_DHCP_Server.pkt       ← ไฟล์จำลองระบบ DHCP Server
+├─ 🖼️ DHCP-Server.png           ← ภาพโครงสร้างเครือข่ายหลัก
+│
+└─ 📂 labs/                     ← รวม Lab ย่อยทั้งหมด
+   │
+   ├─ 🌐 vlan-lab/              ← Lab 2: VLAN
+   │   ├─ 📄 README.md           ← รายละเอียดและผลการทดสอบ VLAN
+   │   ├─ 🖼️ vlan-topology.png   ← ภาพโครงสร้าง VLAN
+   │   └─ 🧩 VLAN_Lab.pkt        ← ไฟล์จำลอง VLAN
+   │
+   ├─ 🛣️ routing-lab/           ← Lab 3: Static Routing
+   │   ├─ 📄 README.md           ← รายละเอียดและการตั้งค่า Static Route
+   │   ├─ 🖼️ routing-topology.png← ภาพ Routing Topology
+   │   └─ 🧩 Routing_Lab.pkt     ← ไฟล์จำลอง Routing
+   │
+   └─ 🔒 nat-lab/                ← Lab 4: NAT & ACL
+       ├─ 📄 README.md           ← รายละเอียดและผลการทดลอง NAT/ACL
+       ├─ 🖼️ nat-topology.png    ← ภาพ Topology ของ NAT Lab
+       └─ 🧩 NAT_Lab.pkt         ← ไฟล์จำลอง NAT & ACL
+```
 
 ---
 
