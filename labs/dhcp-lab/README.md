@@ -32,7 +32,7 @@
 
 ## 🧾 ไฟล์ที่เกี่ยวข้อง
 - `Lab_DHCP_Server.pkt` — ไฟล์จำลองระบบใน Packet Tracer  
-- `DHCP-Server.png` — ภาพ Topology ของระบบ DHCP Lab
+- `DHCPServer_2.png และ DHCPServer_3.png` — ภาพ Topology ของระบบ DHCP Lab
 
 ---
 
